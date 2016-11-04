@@ -10,6 +10,7 @@ namespace ToursDesktop.Models {
 			//Random comment for testing git
             //Added some more comments for testing
             //Third comment for testing
+            //Another test at 1213
 			// stops for our Food and Fun park tour
 			_tourStops = new ObservableCollection<TourStop>();
 			_tourStops.Add(new TourStop
