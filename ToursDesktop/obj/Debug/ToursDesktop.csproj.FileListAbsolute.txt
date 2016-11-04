@@ -1,0 +1,28 @@
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\bin\Debug\ToursDesktop.exe.config
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\bin\Debug\ToursDesktop.exe
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\bin\Debug\ToursDesktop.pdb
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\MainWindow.g.cs
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\App.g.cs
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop_MarkupCompile.cache
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop_MarkupCompile.lref
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\MainWindow.baml
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.g.resources
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.Properties.Resources.resources
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.csproj.GenerateResource.Cache
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.exe
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\bin\Debug\ToursDesktop.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\bin\Debug\ToursDesktop.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\bin\Debug\ToursDesktop.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\App.g.cs
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop_MarkupCompile.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop_MarkupCompile.lref
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\MainWindow.baml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.g.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.Properties.Resources.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ToursDesktop\ToursDesktop\obj\Debug\ToursDesktop.csproj.GenerateResource.Cache
